@@ -14,3 +14,5 @@ let mod = num3 % num4;
 
 let max = Math.max(1,3,5,6,8,20)
 
+arithmetic lab
+
